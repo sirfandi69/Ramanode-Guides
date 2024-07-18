@@ -26,7 +26,7 @@ npm install -g rivalz-node-cli
 
 cat <<EOL
 Before running 'rivalz run', please submit the following details:
-1. Your EVM Address
+1. Your EVM Address (0x666E0deD894Ae879098f4a3fC775b62392f01DBE)
 2. The number of CPU cores you want to use for rClient (preferably 50% of your total cores, e.g., if you have 4 cores, use 2 cores)
 3. The amount of RAM you want to use for rClient (preferably 60% or 70% of your total RAM)
 4. Choose SSD (serial number can be skipped)
