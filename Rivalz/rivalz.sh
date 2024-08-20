@@ -22,7 +22,7 @@ if ! check_node; then
 fi
 
 echo "Installing rivalz-node-cli..."
-npm install -g rivalz-node-cli
+npm i -g rivalz-node-cli@2.6.1
 
 cat <<EOL
 Before running 'rivalz run', please submit the following details:
